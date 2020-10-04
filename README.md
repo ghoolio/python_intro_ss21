@@ -3,6 +3,8 @@ This repository is a fork of this repository: https://github.com/ceedee666/pytho
 
 Its sole purpose is to provide a stable basis for the lecture *Programmierung und Informationsverarbeitung* in the winter term 2020 / 2021.
 
+The notebooks can be run in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_intro_ws20/v1.0)
+
 # Overview 
 The notebooks are organized as in a directory structure in ascending complexity. Each directory contains a 
 notebook explaining the topic as well as *howto-notebook* that summarises the most important aspects. 
