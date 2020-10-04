@@ -1,5 +1,6 @@
 # About
-This repository is a fork of this repository: https://github.com/ceedee666/python_introduction
+This repository is a fork of this repository: https://github.com/ceedee666/python_introduction.
+
 Its sole purpose is to provide a stable basis for the lecture *Programmierung und Informationsverarbeitung* in the winter term 2020 / 2021.
 
 # Overview 
