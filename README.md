@@ -1,9 +1,9 @@
 # About
 This repository is a fork of this repository: https://github.com/ceedee666/python_introduction.
 
-Its sole purpose is to provide a stable basis for the lecture *Programmierung und Informationsverarbeitung* in the winter term 2020 / 2021.
+Its sole purpose is to provide a stable basis for the lecture *Programmierung und Informationsverarbeitung* during the winter term.
 
-The notebooks can be run in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_intro_ws20/v1.2)
+The notebooks can be run in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceedee666/python_intro_lecture/v1.5)
 
 # Overview 
 The notebooks are organized as in a directory structure in ascending complexity. Each directory contains a 
